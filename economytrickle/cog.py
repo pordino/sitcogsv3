@@ -8,7 +8,7 @@ import discord
 
 
 DEFAULT_GUILD = {
-    'enabled': False,s
+    'enabled': False,
     'payout_chance': 50,
     'new_active_bonus': 1,
     'active_bonus_deflate': 1,
